@@ -1,5 +1,67 @@
 # Avatar 3.0 Emulator
 
+Anataw12's fork of [Av3Emulator by lyuma].
+
+## Features
+
+### VPM/VCC Support!
+
+This fork of Av3Emulator supports VRChat Package Manager!
+You can install the package from my VPM repository!
+See [Installation](#installation) for more details!
+
+## Installation
+
+This fork of Av3Emulator is published to my VPM repository so You can use package using VCC.
+
+Since VRChat doesn't have user repo support yet, you have to add anatawa12's vpm repository manually.
+There are many ways to add anatawa12's vpm repository to your PC.
+
+Once you've added anatawa12's vpm repository to your PC, you can add/upgrade this package to any projects!
+
+### Using [VPAI] (recommended)
+
+With [VPAI] unitypackage, you can add anatawa12's VPM repository 
+to your VCC configuration and add to your project at once.
+
+Here's [VPAI unitypackage]. importing this unitypackage will add Av3Emulator to your project!
+
+### Using [vrc-get]
+
+You can use [vrc-get], a command-line vpm client.
+
+```bash
+cd path/to/your/project
+# if you haven't added my vpm repository
+vrc-get repo add https://vpm.anatawa12.com/vpm.json
+# run command below or add to your project using VCC
+vrc-get install com.anatawa12.av3emulator
+```
+
+### Using [VPM CLI] (not recommended)
+
+You can use [VPM CLI], official command-line version of VCC.
+I don't recommend this due to there're many bugs about user repos.
+
+```bash
+cd path/to/your/project
+# if you haven't added my vpm repository
+vpm add repo https://vpm.anatawa12.com/vpm.json
+# run command below or add to your project using VCC
+vpm add package com.anatawa12.av3emulator
+```
+
+[Av3Emulator by lyuma]: https://github.com/lyuma/Av3Emulator/releases
+[https://vpm.anatawa12.com/vpm.json]: https://vpm.anatawa12.com/vpm.json
+[VPAI]: https://github.com/anatawa12/VPMPackageAutoInstaller
+[VPAI unitypackage]: .readme/installer.unitypackage
+[vrc-get]: https://github.com/anatawa12/vrc-get
+[VPM CLI]: https://vcc.docs.vrchat.com/vpm/cli/
+
+The below is the original README. maybe outdated.
+
+-----
+
 ## **[Download the latest version at: https://github.com/lyuma/Av3Emulator/releases](https://github.com/lyuma/Av3Emulator/releases)**
 
 ## Planned features for 3.0:
