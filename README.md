@@ -41,7 +41,7 @@ vrc-get install com.anatawa12.av3emulator
 ### Using [VPM CLI] (not recommended)
 
 You can use [VPM CLI], official command-line version of VCC.
-I don't recommend this due to there're many bugs about user repos.
+I don't recommend this because there're many bugs about user repos.
 
 ```bash
 cd path/to/your/project
