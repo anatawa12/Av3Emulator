@@ -54,7 +54,7 @@ vpm add package com.anatawa12.av3emulator
 [Av3Emulator by lyuma]: https://github.com/lyuma/Av3Emulator/releases
 [https://vpm.anatawa12.com/vpm.json]: https://vpm.anatawa12.com/vpm.json
 [VPAI]: https://github.com/anatawa12/VPMPackageAutoInstaller
-[VPAI unitypackage]: .readme/installer.unitypackage
+[VPAI unitypackage]: https://github.com/anatawa12/Av3Emulator/raw/master/.readme/installer.unitypackage
 [vrc-get]: https://github.com/anatawa12/vrc-get
 [VPM CLI]: https://vcc.docs.vrchat.com/vpm/cli/
 
