@@ -1,4 +1,6 @@
-/* A3ESimpleOSC for C#, version 0.1
+/*
+A3ESimpleOSC for C#, version 0.1
+Copyright (c) 2023 anatawa12 and contributors
 Copyright (c) 2022 Lyuma <xn.lyuma@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
