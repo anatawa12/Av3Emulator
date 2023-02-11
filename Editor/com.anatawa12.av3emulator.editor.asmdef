@@ -2,7 +2,9 @@
     "name": "com.anatawa12.av3emulator.editor",
     "references": [
         "GUID:62f8b81e2d20b4fb0a981ce989b3adea",
-        "GUID:b906909fcc54f634db50f2cad0f988d9"
+        "GUID:b906909fcc54f634db50f2cad0f988d9",
+        "GUID:184316a0752f3c74fbd758a2fb0f0d46",
+        "GUID:f5ea942962a55ed488e8a2962adce217"
     ],
     "includePlatforms": [
         "Editor"
@@ -18,6 +20,12 @@
     ],
     "autoReferenced": false,
     "defineConstraints": [],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "vrchat.blackstartx.gesture-manager",
+            "expression": "",
+            "define": "GESTURE_MANAGER"
+        }
+    ],
     "noEngineReferences": false
 }
