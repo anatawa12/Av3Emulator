@@ -1,0 +1,17 @@
+{
+  "name": "com.anatawa12.av3emulator",
+  "displayName": "anatawa12's fork of Av3Emulator",
+  "version": "3.0.0-SNAPSHOT",
+  "unity": "2019.4",
+  "description": "Avatars 3.0 Emulator",
+  "contributors": [
+    "lyuma",
+    "anatawa12 <anatawa12@icloud.com>"
+  ],
+  "dependencies": {
+    "vrchat.blackstartx.gesture-manager": "^3.8.2"
+  },
+  "legacyFolders" : {
+    "Assets/Lyuma/Av3Emulator" : "e42c5d0b3e2b3f64e8a88c225b3cef62"
+  }
+}
