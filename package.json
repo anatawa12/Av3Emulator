@@ -8,7 +8,7 @@
     "lyuma xn.lyuma@gmail.com",
     "anatawa12 <anatawa12@icloud.com>"
   ],
-  "dependencies": {
+  "vpmDependencies": {
     "vrchat.blackstartx.gesture-manager": "^3.8.2"
   },
   "legacyFolders" : {
