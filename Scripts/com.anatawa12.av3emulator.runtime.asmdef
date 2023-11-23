@@ -14,7 +14,9 @@
         "VRCCore-Editor.dll"
     ],
     "autoReferenced": false,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "KILL_ANATAWA12_AV3EMU"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
